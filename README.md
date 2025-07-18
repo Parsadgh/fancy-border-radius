@@ -2,8 +2,15 @@
 
 Interactive visual playground to experiment with complex `border-radius` values — inspired by [9elements/fancy-border-radius](https://9elements.github.io/fancy-border-radius/).
 
+## 🚀 Demo
+
+Check the live version here:  
+🔗 **[Live Demo](https://parsadgh.github.io/fancy-border-radius/)**  
+
+---
+
 <div align="center">
-  <img src="photo.png" alt="preview" width="500"/>
+  <img src="photo.jpg" alt="preview" width="500"/>
 </div>
 
 ---
@@ -37,12 +44,7 @@ This was a collaborative front-end UI experiment and fun group project 🎯
 
 ---
 
-## 🚀 Demo
 
-Check the live version here:  
-🔗 _[Add your GitHub Pages / Vercel / Netlify link here]_
-
----
 
 ## 📸 Screenshot
 
