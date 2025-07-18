@@ -43,14 +43,4 @@ Built with ❤️ by:
 
 This was a collaborative front-end UI experiment and fun group project 🎯
 
----
-
-
-
-## 📸 Screenshot
-
-![screenshot](./screenshot.png)
-
----
-
 
