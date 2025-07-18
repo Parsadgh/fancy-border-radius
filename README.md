@@ -3,7 +3,7 @@
 Interactive visual playground to experiment with complex `border-radius` values — inspired by [9elements/fancy-border-radius](https://9elements.github.io/fancy-border-radius/).
 
 <div align="center">
-  <img src="preview.png" alt="preview" width="500"/>
+  <img src="photo.png" alt="preview" width="500"/>
 </div>
 
 ---
